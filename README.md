@@ -48,8 +48,8 @@ Do not forget to reload `nftables.service` to apply the changes after finish edi
 
 ## Short URL for Downloading `nftables.conf`
 
-For convenience, I have pointed the URL `https://k4t.io/nft` to the `nftables.conf` file. You may therefore download the `nftables.conf` file with the following command. However, be sure to check the file's integrity after downloading it if you choose to download using this method.
+For convenience, I have pointed the URL `https://kt.ax/nft` to the `nftables.conf` file. You may therefore download the `nftables.conf` file with the following command. However, be sure to check the file's integrity after downloading it if you choose to download using this method.
 
 ```shell
-curl -L k4t.io/nft -o nftables.conf
+curl -L kt.ax/nft -o nftables.conf
 ```
